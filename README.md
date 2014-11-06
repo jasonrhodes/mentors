@@ -3,8 +3,9 @@
 Mentors
 -------
 - your name here as a mentor
-- your rad friend who has also decided to mentor  
-  
+- your rad friend who has also decided to mentor
+- [Charlie Robbins](https://github.com/indexzero) - based out of New York City. Send me all your questions in gists!
+
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
 **Why mentor?**
